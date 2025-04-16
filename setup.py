@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setup(
     name='py-simple-network',
-    version='1.0.0',
+    version='1.1.0',
     description='A Python library for simple TCP-based client-server communication',
     long_description=long_description,
     long_description_content_type='text/markdown',
